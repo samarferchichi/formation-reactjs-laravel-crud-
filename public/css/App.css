@@ -1,0 +1,8 @@
+
+.wrapper{
+    background: linear-gradient(to right, #fca75d, #e74c3c);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
